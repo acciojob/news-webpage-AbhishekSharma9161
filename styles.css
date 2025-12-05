@@ -26,12 +26,14 @@ main {
   flex: 1;
   padding: 20px;
   background-color: white;
+  width: auto;
 }
 
 article {
   flex: 2;
   padding: 20px;
   background-color: white;
+  width: auto;
 }
 
 .pictorial {
@@ -39,6 +41,7 @@ article {
   padding: 20px;
   background-color: white;
   text-align: center;
+  width: auto;
 }
 
 .pictorial img {
