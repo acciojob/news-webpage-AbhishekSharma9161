@@ -22,7 +22,7 @@ main {
   gap: 20px;
 }
 
-.latest {
+.latest-news-section {
   flex: 1;
   padding: 20px;
   background-color: white;
@@ -36,7 +36,7 @@ article {
   width: auto;
 }
 
-.pictorial {
+.pictorial-news-section {
   flex: 1;
   padding: 20px;
   background-color: white;
@@ -44,7 +44,7 @@ article {
   width: auto;
 }
 
-.pictorial img {
+.pictorial-news-section img {
   width: 100%;
   margin: 10px 0;
 }
